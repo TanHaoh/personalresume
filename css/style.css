@@ -265,6 +265,9 @@ p {
 }
 /*--//work--*/
 /*--education--*/
+.portfolio .work-info h5 {
+    color: #000;
+}
 .education .work-info h5 {
     color: #000;
 }
