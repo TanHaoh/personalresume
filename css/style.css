@@ -150,6 +150,12 @@ p {
     color: #999;
     line-height: 1.8em;
 }
+.portfolio p{
+    font-size: 1.5em;
+}
+.about p{
+    font-size: 1.2em;
+}
 .about-right {
     padding-left: 5em;
 }
@@ -175,7 +181,7 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: #000;
+    background: #f0f8ff;
 }
 .work-left {
     text-align: right;
@@ -186,7 +192,7 @@ p {
     padding: 2.5em 0 2em 6em;
 }
 .work-info h4 {
-    font-size: 1.2em;
+    font-size: 1.4em;
     background: darkcyan;
     display: inline-block;
     padding: .6em 1.2em;
@@ -207,7 +213,7 @@ p {
 }
 .work-info h5 {
     font-size: 1.3em;
-    color: #F7E612;
+    color: #008888;
     margin-bottom: .5em;
     border: 1px solid #F7E612;
     display: inline-block;
@@ -274,7 +280,7 @@ p {
 /*--//education--*/
 /*--skills--*/
 .skills{
-	background:#000;
+	background:#f0f8ff;
 }
 .bar-grids {
     padding: 0 4em;
@@ -288,8 +294,8 @@ p {
     background-color: #766E04;
 }
 .bar-grids h6 {
-    font-size: 1.1em;
-    color: #fff;
+    font-size: 1.2em;
+    color: #008888;
     margin-bottom: 0.6em;
 }
 .bar-grids h6 span {
@@ -501,7 +507,7 @@ h2.resp-accordion {
 /*--//portfolio--*/
 /*--contact--*/
 .contact{
-	background:#000;
+	background:#f0f8ff;
 }
 .contact-left iframe {
     width: 100%;
@@ -522,7 +528,7 @@ h2.resp-accordion {
     width: 46%;
 }
 .contact p {
-    color: #fff;
+    color: #008888;
     font-weight: 300;
 }
 .contact p a {
